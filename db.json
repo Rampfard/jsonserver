@@ -1,0 +1,60 @@
+{
+    "dishes": [{
+        "img_src": "images/card-1.png",
+        "name": "Spicy seasoned seafood noodles",
+        "type": "hot",
+        "price": "2.29",
+        "avaliable": "20",
+        "art": 101
+    }, {
+        "img_src": "images/card-2.png",
+        "name": "Salted Pasta with mushroom sauce",
+        "type": "cold",
+        "price": "2.69",
+        "avaliable": "15",
+        "art": 201
+    }, {
+        "img_src": "images/card-3.png",
+        "name": "Beef dumpling in hot and sour soup",
+        "type": "soup",
+        "price": "3.10",
+        "avaliable": "10",
+        "art": 301
+    }, {
+        "img_src": "images/card-4.png",
+        "name": "Spicy instant noodle with special omelette",
+        "type": "soup",
+        "price": "3.59",
+        "avaliable": "17",
+        "art": 302
+    }, {
+        "img_src": "images/card-5.png",
+        "name": "Healthy noodle with spinach leaf",
+        "type": "cold",
+        "price": "3.29",
+        "avaliable": "22",
+        "art": 203
+    }, {
+        "img_src": "images/card-6.png",
+        "name": "Healthy noodle with spinach leaf",
+        "type": "cold",
+        "price": "3.29",
+        "avaliable": "22",
+        "art": 204
+    }, {
+        "img_src": "images/card-7.png",
+        "name": "Hot spicy fried rice with omelet",
+        "type": "hot",
+        "price": "3.49",
+        "avaliable": "13",
+        "art": 102
+    }, {
+        "img_src": "images/card-8.png",
+        "name": "Spicy instant noodle with special omelette",
+        "type": "soup",
+        "price": "3.59",
+        "avaliable": "17",
+        "art": 303
+    }]
+}
+
